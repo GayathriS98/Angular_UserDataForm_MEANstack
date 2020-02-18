@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    
+}
+.cardmain{
+    margin: 30px;
+    border-radius: 12px;
+    /* background-color: rgb(233, 216, 216); */
+}
+.b1,.b2{
+    display: flex;
+    justify-content: center;
+}
+.custom{
+    margin-top: 10px;
+}  
+.redcol{
+    border-left: 5px solid #a94442; /* red */
+  }
